@@ -1,0 +1,18 @@
+
+A site that offers an immediate and innovative service for purchasing and sending
+gift voucher by email or text message.
+Using the site connects a huge variety of brands and stores from different fields
+and saves a lot of valuable time.
+The “BuyMe” system is directly connected to hundreds of stores and dozens of
+chains throughout the country.
+Everywhere and anytime you can browse the site, choose a store, load an online
+voucher (Gift Card) and send to someone dear.
+
+Project goal:
+“BuyMe” website sanity test.
+
+nots:
+1. introRegisScreen - most of the selctors are not permited, therfore i use cssSelctor
+    method reggisterDetails - i prefer not to use id selector bercuse the id change every day
+
+2. there are selectors that i cant found: Constnts.Print and event(at final screen)
